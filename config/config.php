@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://localhost/MVC-02/');
+define('URL', 'http://localhost/leteme/');
 
 define('HOST', 'localhost');
 define('DB', 'mvc');
