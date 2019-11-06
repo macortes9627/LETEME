@@ -1,3 +1,9 @@
+<!--Mario alberto cortes
+version_001
+fecha: 06-11-2019
+desarrollo: PHP Y HTML
+-->
+
 <?php
 
 class Control_asistencia extends Controller{
