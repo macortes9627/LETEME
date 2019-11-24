@@ -8,5 +8,4 @@ define('USER', 'root');
 define('PASSWORD', "");
 define('CHARSET', 'utf8');
 define("DEBUG",true);
-
 ?>
